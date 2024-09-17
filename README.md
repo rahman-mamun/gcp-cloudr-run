@@ -21,7 +21,7 @@ Copy/
 Setup
 
 Clone this repository:
-Copygit clone https://github.com/yourusername/your-repo-name.git
+
 cd your-repo-name
 
 Create a new project in Google Cloud Console or select an existing one.
